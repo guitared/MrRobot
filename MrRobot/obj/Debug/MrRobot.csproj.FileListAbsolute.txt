@@ -1,0 +1,7 @@
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\bin\Debug\MrRobot.exe.config
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\obj\Debug\MrRobot.csprojResolveAssemblyReference.cache
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\bin\Debug\MrRobot.exe
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\bin\Debug\MrRobot.pdb
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\bin\Debug\fsociety.dll
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\obj\Debug\MrRobot.exe
+c:\users\guitared\documents\visual studio 2013\Projects\MrRobot\MrRobot\obj\Debug\MrRobot.pdb
