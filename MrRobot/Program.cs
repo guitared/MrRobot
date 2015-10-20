@@ -19,7 +19,7 @@ namespace MrRobot
             Controller controller = new MainController();
             try
             {
-                model = (MyModel)Activator.CreateInstance(Type.GetType("MrRobot.HackedModel"));
+                model = (MyModel)Activator.CreateInstance(Type.GetType("MrRobot.CLASS"));
                 model.AttachObserver(view);
             }
             catch (Exception e)
@@ -34,7 +34,6 @@ namespace MrRobot
             controller.ActionPerformed(MainController.WELCOME);
             while (Console.ReadKey(true).Key != ConsoleKey.Escape)
             {
-
                 controller.ActionPerformed(MainController.KEYPRESS);
             }
             controller.ActionPerformed(MainController.GOODBYE);
