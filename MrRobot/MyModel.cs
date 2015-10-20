@@ -15,7 +15,7 @@ namespace MrRobot
         }
 
         public virtual void PerformSendMessage() {
-            message = "570610588";
+            message = DEFAULTMSG;
             NotifyAll();
         }
         
