@@ -10,7 +10,8 @@ namespace MrRobot
     {
         public override void PerformSendMessage()
         {
-            Console.WriteLine("message: 570610590");
+            message = "570610590";
+            NotifyAll();
             
         }
     }
